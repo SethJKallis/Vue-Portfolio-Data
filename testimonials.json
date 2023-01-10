@@ -2,6 +2,7 @@
     "testimonials": [
         {
             "id": 1,
+            "class": "active",
             "imageUrl": "https://i.postimg.cc/52Mzr9Hf/Camryn.jpg",
             "imageAlt": "Camryn",
             "comment": "Seth Kallis is an exceptional person and colleague, very down to earth. He grasps new ideas very quickly which makes him a very valuable asset to any organization that is lucky to have him."
