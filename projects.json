@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "class": "html-project",
+            "projectName": "HTML Project",
+            "imageUrl": "https://i.postimg.cc/MHmhtsc7/html-image.jpg",
+            "imageAlt": "HTML Image",
+            "githubLink": "https://github.com/SethJKallis/Revision",
+            "netlifyLink": "https://lcweek2revision.netlify.app"
+        },
+        {
+            "id": 2,
+            "class": "css-project",
+            "projectName": "CSS Project",
+            "imageUrl": "https://i.postimg.cc/4y9K8jsK/css-image.jpg",
+            "imageAlt": "CSS Image",
+            "githubLink": "https://github.com/SethJKallis/Portfolio",
+            "netlifyLink": "https://stellar-manatee-e65620.netlify.app/"
+        },
+        {
+            "id": 3,
+            "class": "bootstrap-project",
+            "projectName": "Bootstrap Project",
+            "imageUrl": "https://i.postimg.cc/SKSMyZ75/bootstrap-img.png",
+            "imageAlt": "Bootstrap Image",
+            "githubLink": "https://github.com/SethJKallis/E-Commerce-Bootstrap-Activity",
+            "netlifyLink": "https://magical-babka-58fa8c.netlify.app"
+        }
+    ]
+}
