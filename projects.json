@@ -44,6 +44,15 @@
             "imageAlt": "JS Calculator Image",
             "githubLink": "https://github.com/SethJKallis/JavaScript-Calculator",
             "netlifyLink": "https://sethjkallisjavascriptcalculator.netlify.app/"
+        },
+        {
+            "id": 6,
+            "class": "bootstrap-project",
+            "projectName": "JavaScript Project",
+            "imageUrl": "https://i.postimg.cc/5yFn2v0R/Screenshot-20230110-163751.png",
+            "imageAlt": "JS Calculator Image",
+            "githubLink": "https://github.com/SethJKallis/JS-End-of-Module-Project",
+            "netlifyLink": "https://shiny-florentine-c00cca.netlify.app/"
         }
     ]
 }
