@@ -31,7 +31,7 @@
             "id": 4,
             "class": "bootstrap-project",
             "projectName": "Portfolio Project",
-            "imageUrl": "https://i.postimg.cc/SKSMyZ75/bootstrap-img.png",
+            "imageUrl": "https://i.postimg.cc/y6jzPxZM/Screenshot-20230110-155603.png",
             "imageAlt": "Portfolio Image",
             "githubLink": "https://github.com/SethJKallis/FINAL-PORTFOLIO",
             "netlifyLink": "https://sethjkallisfinalportfolio.netlify.app/"
@@ -40,7 +40,7 @@
             "id": 5,
             "class": "bootstrap-project",
             "projectName": "JS Calculator",
-            "imageUrl": "https://i.postimg.cc/SKSMyZ75/bootstrap-img.png",
+            "imageUrl": "https://i.postimg.cc/3JLh2yTN/Screenshot-20230110-155527.png",
             "imageAlt": "JS Calculator Image",
             "githubLink": "https://github.com/SethJKallis/JavaScript-Calculator",
             "netlifyLink": "https://sethjkallisjavascriptcalculator.netlify.app/"
