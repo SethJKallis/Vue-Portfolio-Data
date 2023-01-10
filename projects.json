@@ -26,6 +26,24 @@
             "imageAlt": "Bootstrap Image",
             "githubLink": "https://github.com/SethJKallis/E-Commerce-Bootstrap-Activity",
             "netlifyLink": "https://magical-babka-58fa8c.netlify.app"
+        },
+        {
+            "id": 4,
+            "class": "bootstrap-project",
+            "projectName": "Portfolio Project",
+            "imageUrl": "https://i.postimg.cc/SKSMyZ75/bootstrap-img.png",
+            "imageAlt": "Portfolio Image",
+            "githubLink": "https://github.com/SethJKallis/FINAL-PORTFOLIO",
+            "netlifyLink": "https://sethjkallisfinalportfolio.netlify.app/"
+        },
+        {
+            "id": 5,
+            "class": "bootstrap-project",
+            "projectName": "JS Calculator",
+            "imageUrl": "https://i.postimg.cc/SKSMyZ75/bootstrap-img.png",
+            "imageAlt": "JS Calculator Image",
+            "githubLink": "https://github.com/SethJKallis/JavaScript-Calculator",
+            "netlifyLink": "https://sethjkallisjavascriptcalculator.netlify.app/"
         }
     ]
 }
