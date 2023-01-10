@@ -34,6 +34,13 @@
             "imageUrl": "https://i.postimg.cc/xjwt3z2C/Joel-Profile.jpg",
             "imageAlt": "Joel",
             "comment": "Seth is a dedicated, creative, go-getter, and well-behaved student. He enjoys working with his classmates and works well on his project. He has gained knowledge of web development, including Bootstrap 5. I will be very delighted to see him get hired as a developer."
+        },
+        {
+            "id": 6,
+            "class": "",
+            "imageUrl": "",
+            "imageAlt": "Daniel Hector",
+            "comment": "Seth is meticulous and hardworking. He is always committed to his work and sticks to deadlines"
         }
     ]
 }
