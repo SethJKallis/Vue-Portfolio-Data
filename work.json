@@ -2,21 +2,21 @@
     "work": [
         {
             "id": 1,
-            "jobTitle": "",
-            "year": "",
-            "description": ""
+            "jobTitle": "Admin Worker",
+            "year": "2017-2018",
+            "description": "I would perform common ad hoc duties such as data capturing and filing."
         },
         {
-            "id": 1,
-            "jobTitle": "",
-            "year": "",
-            "description": ""
+            "id": 2,
+            "jobTitle": "Accounts Clerk",
+            "year": "2020-2022",
+            "description": "I would assist a head accountant in the drafting of financial statements."
         },
         {
-            "id": 1,
-            "jobTitle": "",
-            "year": "",
-            "description": ""
+            "id": 3,
+            "jobTitle": "Bookkeeper",
+            "year": "2020-2022",
+            "description": "Kept a record of the day to day transactions performed by the business."
         }
     ]
 }
