@@ -17,6 +17,12 @@
             "jobTitle": "Bookkeeper",
             "year": "2020-2022",
             "description": "Kept a record of the day to day transactions performed by the business."
+        },
+        {
+            "id":4,
+            "jobTItle":"LC Intern",
+            "year":"2023-current",
+            "description":"Up-skilling in UI/UX Design, WordPress, "
         }
     ]
 }

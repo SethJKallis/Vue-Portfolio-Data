@@ -48,11 +48,20 @@
         {
             "id": 6,
             "class": "bootstrap-project",
-            "projectName": "JavaScript Project",
+            "projectName": "JS Beginners Project",
             "imageUrl": "https://i.postimg.cc/5yFn2v0R/Screenshot-20230110-163751.png",
             "imageAlt": "JS Calculator Image",
             "githubLink": "https://github.com/SethJKallis/JS-End-of-Module-Project",
             "netlifyLink": "https://shiny-florentine-c00cca.netlify.app/"
+        },
+        {
+            "id": 7,
+            "class":"bootstrap-project",
+            "projectName":"Full Stack CAPSTONE Project",
+            "imgUrl":"https://i.postimg.cc/02Vhfj5x/Screenshot-1.png",
+            "imgAlt":"Full Stack Project",
+            "githubLink":"https://github.com/SethJKallis/CAPSTONE",
+            "netlifyLink":"https://capstone-final-711e0.web.app/"
         }
     ]
 }
