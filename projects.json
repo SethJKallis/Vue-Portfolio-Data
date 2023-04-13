@@ -48,7 +48,7 @@
         {
             "id": 6,
             "class": "bootstrap-project",
-            "projectName": "JS Beginners Project",
+            "projectName": "JS Project",
             "imageUrl": "https://i.postimg.cc/5yFn2v0R/Screenshot-20230110-163751.png",
             "imageAlt": "JS Calculator Image",
             "githubLink": "https://github.com/SethJKallis/JS-End-of-Module-Project",
