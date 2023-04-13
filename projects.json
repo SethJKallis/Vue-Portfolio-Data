@@ -57,9 +57,9 @@
         {
             "id": 7,
             "class":"bootstrap-project",
-            "projectName":"Full Stack CAPSTONE Project",
-            "imgUrl":"https://i.postimg.cc/02Vhfj5x/Screenshot-1.png",
-            "imgAlt":"Full Stack Project",
+            "projectName":"Full-Stack CAPSTONE Project",
+            "imageUrl":"https://i.postimg.cc/02Vhfj5x/Screenshot-1.png",
+            "imageAlt":"Full Stack Project",
             "githubLink":"https://github.com/SethJKallis/CAPSTONE",
             "netlifyLink":"https://capstone-final-711e0.web.app/"
         }
