@@ -23,6 +23,12 @@
             "jobTitle":"LC Intern",
             "year":"2023-current",
             "description":"Up-skilling in UI/UX Design, WordPress, PHP and SEO."
+        },
+        {
+            "id": 5,
+            "jobTitle":"Assistant Lecturer (Life Choices)",
+            "year":"2023-current",
+            "description":"Assisting lecturers by providing additional aid to students who require assistance as well as creating weekly reports on student performance."
         }
     ]
 }
